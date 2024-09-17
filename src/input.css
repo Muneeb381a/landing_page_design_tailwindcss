@@ -49,3 +49,7 @@ h3 {
 .btn_outline:hover {
   @apply bg-orange-500;
 }
+
+.popular__card:hover img {
+  @apply -top-8;
+}
